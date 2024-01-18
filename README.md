@@ -6,7 +6,7 @@
         <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg""/>
     </a>
 
-    <img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
+    
 
 
 <div align="center">
