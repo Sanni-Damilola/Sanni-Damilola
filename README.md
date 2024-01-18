@@ -91,19 +91,13 @@ No🔚
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a>
 
-   
+   <br />
+   <br />
   
 
 
-<div align="center">
-        <img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
-</div>
-
-
-<div align="center" style="display: flex; justify-content: space-between;">
-   <img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
+<img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
 
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact)](https://git.io/streak-stats)
-</div>
        
 
