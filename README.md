@@ -95,6 +95,10 @@ No🔚
   
 
 
-<img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
+<div align="center">
+        <img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
+</div>
 
+<div align="center">
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact)](https://git.io/streak-stats)
+</div>
