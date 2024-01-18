@@ -17,7 +17,7 @@
 
 <p align="center">🌱 Currently, I'm immersing myself in the world of Express.js and React.js.<br>
 ❓ Feel free to inquire about the MERN stack and related technologies.<br>
-📫 Reach out to me at sannifortune11@gmail.com.<br>
+📫 Reach out to me at sannifortune11@gmail.com <br>
 ⚡ Fun fact: I believe I have a knack for humor 👽.</p>
 
 
@@ -39,7 +39,7 @@ I am not just a coder; I am a problem solver. My ability to think critically and
 Feel free to explore my repository for a showcase of projects I've worked on. From interactive React applications to robust backend systems, my portfolio reflects my commitment to excellence in every aspect of software development.
 
 🔹 Connect with Me
-I am open to collaboration, learning opportunities, and networking. Let's connect and create something amazing together! You can reach me through LinkedIn or by emailing me at sannifortune11@gmail.com.
+I am open to collaboration, learning opportunities, and networking. Let's connect and create something amazing together! You can reach me through LinkedIn or by emailing me at sannifortune11@gmail.com
 
 Thank you for visiting my GitHub profile. Your feedback and suggestions are always welcome. Stay curious, keep coding! 🚀❕
 
