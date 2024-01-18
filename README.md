@@ -94,12 +94,32 @@ No🔚
    <br />
    <br />
   
-<img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
+<style>
+    .dark-mode-container {
+        display: flex;
+        justify-content: space-between;
+        background-color: #0d1117;
+        padding: 10px;
+        border-radius: 6px;
+        margin: 10px;
+    }
 
-<br/>
+    .dark-mode-container div {
+        width: 48%;
+    }
+
+    .dark-mode-container img {
+        width: 100%;
+    }
+</style>
+
+<div align="center" class="dark-mode-container">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&count_private=true&theme=radical&show_icons=true&card_width=100" />
+    </div>
 
 -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact)](https://git.io/streak-stats)
-
+</div>
 
 
 
