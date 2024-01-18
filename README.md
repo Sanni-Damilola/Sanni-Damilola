@@ -88,5 +88,5 @@ No🔚
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a>
 
-    -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact)](https://git.io/streak-stats)
+   
   
