@@ -13,7 +13,7 @@
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 250px" />
 </div>
 
-### <h1 align="center">Hey there! I'm Sanni Damilola Fortune, a passionate fullstack software engineer from Nigeria 👨‍💻</h1>
+### <h1 align="center">Hey there! I'm Sanni Damilola Fortune, a passionate fullstack software developer  👨‍💻</h1>
 
 <p align="center">🌱 Currently, I'm immersing myself in the world of Express.js and React.js.<br>
 ❓ Feel free to inquire about the MERN stack and related technologies.<br>
@@ -98,7 +98,7 @@ No🔚
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=blue&layout=compact)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact)](https://git.io/streak-stats)
 
 
 
