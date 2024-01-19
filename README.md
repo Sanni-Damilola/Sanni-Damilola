@@ -3,9 +3,12 @@
 
 
 
+    <a href="">
+        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg""/>
+    </a>
+
 
     
-
 
 <div align="center">
     <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 250px" />
@@ -99,9 +102,6 @@ No🔚
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact)](https://git.io/streak-stats)
 
 
-<a href="">
-        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg""/>
-    </a>
 
        
 
