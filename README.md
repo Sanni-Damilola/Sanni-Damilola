@@ -4,7 +4,13 @@
 
 <div align="center">
     <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola" alt="Top Languages" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Sanni-Damilola">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&layout=compact&theme=vision-friendly-dark" alt="Top Languages Compact" />
     </a>
 </div>
 
