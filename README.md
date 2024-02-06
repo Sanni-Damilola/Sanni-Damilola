@@ -100,8 +100,13 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
+
+<details>
+
+![GitHub stats](https://github.com/Sanni-Damilola/Sanni-Damilola/blob/metrics/github-metrics.svg)
+
+</details>
 
 
 <div align="center">
