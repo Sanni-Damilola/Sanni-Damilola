@@ -103,7 +103,9 @@
 <br/>  
 
 <details>
+
 ![GitHub stats](https://github.com/Sanni-Damilola/Sanni-Damilola/blob/metrics/github-metrics.svg)
+
 </details>
 
 
