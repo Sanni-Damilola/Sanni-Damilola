@@ -1,13 +1,4 @@
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
-
-
 <div align="center">
     <p>Contact me: <a href="mailto:sannifortune11@gmail.com">sannifortune11@gmail.com</a></p>
 </div>
