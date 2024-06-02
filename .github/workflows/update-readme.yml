@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Update Script
+        run: node update-readme.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "sannifortune11@gmail.com"
+          git config --local user.name "Sanni"
+          git add README.md
+          git commit -m "Update README with latest data" || echo "No changes to commit"
+          git push
