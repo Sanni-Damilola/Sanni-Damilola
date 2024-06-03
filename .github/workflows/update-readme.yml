@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs every day at midnight
 
 jobs:
   update-readme:
@@ -18,9 +18,6 @@ jobs:
         with:
           node-version: "20" # Update to use Node.js 20
 
-      - name: Print Node.js Version
-        run: node --version
-
       - name: Install Dependencies
         run: npm install
 
@@ -28,9 +25,11 @@ jobs:
         run: node update-readme.js
 
       - name: Commit and Push Changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }} # Use the PAT secret
         run: |
           git config --local user.email "sannifortune11@gmail.com"
           git config --local user.name "Sanni"
           git add README.md
           git commit -m "Update README with latest data" || echo "No changes to commit"
-          git push
+          git push https://github.com/${{ github.repository }}.git HEAD:main
