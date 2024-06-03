@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -17,6 +17,9 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: "20" # Update to use Node.js 20
+
+      - name: Print Node.js Version
+        run: node --version
 
       - name: Install Dependencies
         run: npm install
