@@ -10,7 +10,7 @@ async function fetchData() {
     const userData = response.data;
 
     const readmeContent = `
-# Hello, I'm ${userData.name}! 👋
+## Hello, I'm ${userData.name}! 👋
 
 🌟 I have ${userData.followers} followers on GitHub.
 
