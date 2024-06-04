@@ -33,4 +33,4 @@ jobs:
           git remote set-url origin https://github.com/Sanni-Damilola/Sanni-Damilola.git
           git add README.md
           git commit -m "Update README with latest data" || echo "No changes to commit"
-          git push https://github.com/Sanni-Damilola/Sanni-Damilola.git HEAD:main
+          git push https://${{ secrets.GH_PAT }}@github.com/Sanni-Damilola/Sanni-Damilola.git HEAD:main
