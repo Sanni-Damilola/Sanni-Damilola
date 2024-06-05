@@ -23,9 +23,8 @@ jobs:
 
       - name: Update README
         run: |
-          # Add your logic to update README here
-          # For example, if you have a script that generates the README content
-          # ./generate-readme.sh
+          echo "# My Project" > README.md
+          echo "Last updated: $(date)" >> README.md
 
       - name: Commit and Push Changes
         env:
