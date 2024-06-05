@@ -21,6 +21,12 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Update README
+        run: |
+          # Add your logic to update README here
+          # For example, if you have a script that generates the README content
+          # ./generate-readme.sh
+
       - name: Commit and Push Changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
