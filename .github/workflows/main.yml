@@ -21,9 +21,6 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Update Script
-        run: node update-readme.js
-
       - name: Commit and Push Changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
