@@ -91,3 +91,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
+<p align="center">
+  <img alt="wakatime" src="https://wakatime.com/badge/user/3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56.svg" />
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=Sanni-Damilola />
+</p>
