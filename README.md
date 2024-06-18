@@ -95,5 +95,10 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
     <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
-    !https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg!:https://wakatime.com/@79c45553-0ad1-41d2-9b21-4d5284c6ae95
 </div>
+
+<br />
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/alanhamlett?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/alanhamlett)
+[![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/WakaTime)
