@@ -19,6 +19,9 @@
     </a>
 </div>
 
+<img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanni&layout=compact&theme=gotham&langs_count=6&v=2" align="center" />
+
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
