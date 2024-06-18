@@ -92,10 +92,9 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
-<br/>
-<br/>    
+<div>
+    <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
+  
 <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
 
+</div>
