@@ -10,6 +10,14 @@
 - ⚡ Fun fact: I love video game cartoons and can't go a day or night without listening to music.
 
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
+    <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
+    <img alt="github" src="https://img.shields.io/github/followers/Sanni-Damilola?logo=github&style=plastic" align="center"/>
+</div>
+
+<br />
+
+<div align="center">
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola" alt="Top Languages" />
     </a>
@@ -98,10 +106,5 @@
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
-    <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
-    <img alt="github" src="https://img.shields.io/github/followers/Sanni-Damilola?logo=github&style=plastic" align="center" />
-</div>
+
 
