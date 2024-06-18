@@ -17,9 +17,10 @@
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&layout=compact" alt="GitHub Streak" />
     </a>
+    
+<img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanni&layout=compact&theme=gotham&langs_count=6&v=2" align="center" />
 </div>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanni&layout=compact&theme=gotham&langs_count=6&v=2" align="center" />
 
 
 ## My Skill Set
