@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Sanni-Damilola&layout=compact&theme=gotham&langs_count=6&v=2" alt="rowjay007" />
+    <a href="https://github.com/Sanni-Damilola">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola" alt="Top Languages" />
+    </a>
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&layout=compact&theme=vision-friendly-dark" alt="Top Languages Compact" />
     </a>
@@ -90,5 +92,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
 <br/>
+<br/>    
 <img alt="wakatime" src="https://wakatime.com/badge/user/3cbe3c90-aefe-4b06-9cbe-bb590e0a7e56.svg" align="center" />
 
