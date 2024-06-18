@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on exciting projects.
 
 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love video game cartoons and can't go a day or night without listening to music.
+- ⚡ Fun fact: I love video games, cartoons and musics, can't go a day or night without listening to music.
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=plastic" align="center" />
