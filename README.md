@@ -94,7 +94,8 @@
 <br/>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=flat-square" align="center" />
-  
-<img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
-
+    <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
 </div>
+<br />
+<br />
+<a href="https://wakatime.com/@79c45553-0ad1-41d2-9b21-4d5284c6ae95"><img src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" alt="Total time coded since Oct 13 2022" /></a>
