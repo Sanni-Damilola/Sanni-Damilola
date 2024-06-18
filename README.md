@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola" alt="Top Languages" />
-    </a>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Sanni-Damilola&layout=compact&theme=gotham&langs_count=6&v=2" alt="rowjay007" />
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&layout=compact&theme=vision-friendly-dark" alt="Top Languages Compact" />
     </a>
