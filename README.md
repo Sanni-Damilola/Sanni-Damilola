@@ -110,7 +110,7 @@
 
 <br />
 
-## Additional Badges
+## Badges
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&theme=onedark" align="center" />
 </div>
