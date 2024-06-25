@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love video games, cartoons, and music, can't go a day or night without listening to music.
 
 <div align="center">
-    <img src="https://img.shields.io/badge/GitHub-Sanni--Damilola-radical&logo=github&style=plastic" align="center" />
+    <img src="https://img.shields.io/badge/GitHub-Sanni--Damilola-blue&logo=github&style=plastic" align="center" />
     <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=plastic" align="center" />
     <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
     <img alt="github" src="https://img.shields.io/github/followers/Sanni-Damilola?logo=github&style=plastic" align="center"/>
