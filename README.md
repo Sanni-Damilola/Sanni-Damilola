@@ -20,7 +20,7 @@
 
 <div align="center">
     <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=radical" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&layout=compact&theme=radical" alt="Top Languages Compact" />
