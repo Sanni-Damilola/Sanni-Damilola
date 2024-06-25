@@ -110,6 +110,4 @@
 ## Additional Badges
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&theme=onedark" align="center" />
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanni-Damilola&theme=dracula" align="center" />
-    <img src="https://www.codewars.com/users/Sanni-Damilola/badges/large" align="center" />
 </div>
