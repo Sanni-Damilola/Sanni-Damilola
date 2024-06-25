@@ -1,52 +1,49 @@
- ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 🔭 I’m currently working on [Tube Synopsis](https://github.com/tubesynopsis).
 - 💬 Feel free to ask me about JavaScript, Python, TypeScript, and coding for startups.
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-contact--me-blue?style=flat-square&logo=gmail)](mailto:sannifortune11@gmail.com)
 - 👯 I’m looking to collaborate on exciting projects.
-
-😄 Pronouns: He/Him
-- ⚡ Fun fact: I love video games, cartoons and musics, can't go a day or night without listening to music.
-
-
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love video games, cartoons, and music, can't go a day or night without listening to music.
 
 <div align="center">
-    <img src="https://img.shields.io/badge/GitHub-Sanni--Damilola-blue?style=flat-square&logo=github)](https://github.com/Sanni-Damilolac" align="center" />
-    <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=plastic" align="center" />
+    <img src="https://img.shields.io/badge/GitHub-Sanni--Damilola-blue?style=flat-square&logo=github" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=Sanni-Damilola&&style=plastic" align="center" />
     <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
     <img alt="github" src="https://img.shields.io/github/followers/Sanni-Damilola?logo=github&style=plastic" align="center"/>
 </div>
 
 <br />
 
+## GitHub Streak
 <div align="center">
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=radical" alt="GitHub Streak" />
     </a>
+</div>
+
+<br />
+
+## Top Languages
+<div align="center">
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&layout=compact&theme=radical" alt="Top Languages Compact" />
     </a>
 </div>
 
-<hr/>
+<br />
 
+## Wakatime Stats
 <div align="center">
-    <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=radical" alt="GitHub Streak" />
-    </a>
-    
-<img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanni&layout=compact&theme=gotham&langs_count=6&v=2" align="center" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanni&layout=compact&theme=gotham&langs_count=6&v=2" align="center" />
 </div>
 
-
+<br />
 
 ## My Skill Set
-
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
-
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -62,7 +59,6 @@
 </td><td valign="top" width="33%">
 
 ### Backend
-
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -84,7 +80,6 @@
 <br/>
 
 ## Connect with me
-
 <div align="center">
 <a href="https://github.com/Sanni-Damilola" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,17 +93,29 @@
 <a href="https://web.facebook.com/profile.php?id=100041422254102" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-    <a href="https://medium.com/@sannifortune11" target="_blank">
+<a href="https://medium.com/@sannifortune11" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>
+</a>
 </div>
 
 <br/>
 
-## Github Stats
+## GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br />
 
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&column=7&theme=gruvbox&no-frame=true%22"/>
+<div align="center">
+    <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&column=7&theme=gruvbox&no-frame=true"/>
+</div>
 
+<br />
+
+## Additional Badges
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&theme=onedark" align="center" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanni-Damilola&theme=dracula" align="center" />
+    <img src="https://www.codewars.com/users/Sanni-Damilola/badges/large" align="center" />
+</div>
