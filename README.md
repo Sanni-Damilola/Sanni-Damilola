@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on [Tube Synopsis](https://github.com/tubesynopsis).
 - 💬 Feel free to ask me about JavaScript, Python, TypeScript, and coding for startups.
-- 📫 How to reach me: [sannifortune11@gmail.com](mailto:sannifortune11@gmail.com)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-contact--me-blue?style=flat-square&logo=gmail)](mailto:sannifortune11@gmail.com)
 - 👯 I’m looking to collaborate on exciting projects.
 
 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love video games, cartoons and musics, can't go a day or night without listening to music.
+
+
 
 <div align="center">
     <img src="https://img.shields.io/badge/GitHub-Sanni--Damilola-blue?style=flat-square&logo=github)](https://github.com/Sanni-Damilolac" align="center" />
