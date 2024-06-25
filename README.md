@@ -107,4 +107,5 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&column=7&theme=gruvbox&no-frame=true%22"/>
 
