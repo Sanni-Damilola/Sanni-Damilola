@@ -35,7 +35,7 @@
 
 ## Wakatime Stats
 <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanni&layout=compact&theme=gotham&langs_count=6&v=2" align="center" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sanni&layout=compact&theme=radical&langs_count=6&v=2" align="center" />
 </div>
 
 <br />
