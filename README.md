@@ -16,10 +16,10 @@
 
 ## GitHub Streak
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
     <a href="https://github.com/Sanni-Damilola">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=dark&hide_border=true" alt="GitHub Streak" />
     </a>
+</div>
 
 <br />
 
