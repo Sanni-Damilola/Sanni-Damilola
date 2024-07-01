@@ -26,7 +26,7 @@
 ## Top Languages
 <div align="center">
     <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=radical" alt="Top Languages Compact" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&theme=rdark" alt="Top Languages Compact" />
     </a>
     <a href="https://github.com/Sanni-Damilola">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanni-damilola&theme=github_dark" />
