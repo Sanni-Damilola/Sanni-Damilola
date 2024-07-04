@@ -1,11 +1,11 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 🚀 I'm currently working on [Tube Synopsis](https://github.com/tubesynopsis/)
 - 💬 Feel free to ask me about JavaScript, Python, TypeScript, and coding for startups.
 - 👯 I’m looking to collaborate on exciting projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love video games, cartoons, and music, can't go a day or night without listening to music.
 
+<!-- 🚀 I'm currently working on [Tube Synopsis](https://github.com/tubesynopsis/) -->
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sanni-Damilolas&&style=plastic" align="center" />
     <img alt="wakatime" src="https://wakatime.com/badge/user/79c45553-0ad1-41d2-9b21-4d5284c6ae95.svg" align="center" />
