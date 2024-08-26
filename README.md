@@ -3,7 +3,7 @@
 - 💬 Feel free to ask me about JavaScript, Python, TypeScript, and coding for startups.
 - 👯 I’m looking to collaborate on exciting projects.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love video games, cartoons, and music, can't go a day or night without listening to music.
+- ⚡Fun fact: I love video games, cartoons, and music—can't go a day or night without listening to music. I may not be able to dance 🕺, but after squashing a bug 🐞 that took me 14         hours, you might just catch me busting a move! 💃🎶
 
 <!-- 🚀 I'm currently working on [Tube Synopsis](https://github.com/tubesynopsis/) -->
 <div align="center">
