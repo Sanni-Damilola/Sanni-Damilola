@@ -82,6 +82,15 @@
 
 <br/>
 
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge" alt="React Badge" />
+    <img src="https://img.shields.io/badge/Tools-VSCode-green?style=for-the-badge" alt="VSCode Badge" />
+</div>
+
+<br/>
+
 ## Connect with me
 <div align="center">
 <a href="https://github.com/Sanni-Damilola" target="_blank">
@@ -124,10 +133,6 @@
     <img src="https://media.giphy.com/media/YOUR_GIF_LINK/giphy.gif" alt="GIF" />
 </div>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" alt="JavaScript Badge" />
-    <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge" alt="React Badge" />
-    <img src="https://img.shields.io/badge/Tools-VSCode-green?style=for-the-badge" alt="VSCode Badge" />
-</div>
+
 
 
