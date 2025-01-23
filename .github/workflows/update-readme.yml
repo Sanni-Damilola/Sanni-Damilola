@@ -2,7 +2,7 @@ name: Update README with Random GIF
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC. You can adjust this as needed.
+    - cron: "* * * * *" # Runs every minute
   workflow_dispatch: # Allows manual trigger if needed.
 
 jobs:
