@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 🤘 
+    - cron: "0 0 * * *" # 🤘
 
 jobs:
   update-readme:
@@ -26,7 +26,7 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --local user.email "sannifortune11@gmail.com"
-          git config --local user.name "Sanni"
+          git config --local user.name "Sanni-Damilola"
           git remote set-url origin https://github.com/Sanni-Damilola/Sanni-Damilola.git
           git add README.md
           git commit -m "Update README with latest data" || echo "No changes to commit"
