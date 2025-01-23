@@ -130,8 +130,9 @@
 </div>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/3o6ZsYm5P38NvUWrDi/giphy.gif" alt="Coding GIF" />
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
 </div>
+
 
 
 
