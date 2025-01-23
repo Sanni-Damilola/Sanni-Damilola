@@ -105,7 +105,8 @@
 
 ## GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&theme=radical" align="center" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&theme=radical" align="center" /> -->
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanni-Damilola&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
 </div>  
 
 <br />
