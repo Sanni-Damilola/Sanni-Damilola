@@ -119,3 +119,13 @@
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
+
+<div align="center">
+    <img src="https://www.tubesynopsis.com/assets/sanni.InxcuEMJ.jpeg" alt="Profile Banner" />
+</div>
+
+
+<div align="center">
+    <img src="https://media.giphy.com/media/YOUR_GIF_LINK/giphy.gif" alt="GIF" />
+</div>
+
