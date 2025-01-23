@@ -134,5 +134,12 @@
 </div>
 
 
+## Watch My Contributions Snake 🐍
+<div align="center">
+    <img src="https://github.com/Sanni-Damilola/Sanni-Damilola/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+
+
 
 
