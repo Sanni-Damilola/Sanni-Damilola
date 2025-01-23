@@ -130,7 +130,20 @@
 </div>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
+<!--     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" /> -->
+</div>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF 1" width="150" height="150" />
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF 2" width="150" height="150" />
+    <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Coding GIF 3" width="150" height="150" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF 4" width="150" height="150" />
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF 5" width="150" height="150" />
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF 6" width="150" height="150" />
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF 7" width="150" height="150" />
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF 8" width="150" height="150" />
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF 9" width="150" height="150" />
+    <img src="https://media.giphy.com/media/JtBZmwe8C1b7KuabMk/giphy.gif" alt="Coding GIF 10" width="150" height="150" />
 </div>
 
 
