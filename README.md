@@ -112,5 +112,6 @@
 
 ## Badges
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&theme=onedark" align="center" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&theme=radical&no-frame=true&column=7" align="center" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&theme=onedark" align="center" /> -->
 </div>
