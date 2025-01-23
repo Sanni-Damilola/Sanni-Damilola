@@ -106,7 +106,8 @@
 ## GitHub Stats
 <div align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&theme=radical" align="center" /> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&include_all_commits=true&theme=radical" align="center" />
+    
 </div>  
 
 <br />
