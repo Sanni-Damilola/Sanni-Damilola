@@ -18,7 +18,7 @@
 ## GitHub Streak
 <div align="center">
     <a href="https://github.com/Sanni-Damilola">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanni-Damilola&layout=compact&theme=radical" alt="GitHub Streak"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
     </a>
 </div>
 
