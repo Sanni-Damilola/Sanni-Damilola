@@ -129,11 +129,13 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
 
+
 <!-- GIF section start -->
 <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="150" height="150" />
 </div>
 <!-- GIF section end -->
+
 
 <!-- GIF grid -->
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
