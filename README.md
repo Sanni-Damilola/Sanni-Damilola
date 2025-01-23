@@ -124,6 +124,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Sanni-Damilola&theme=onedark" align="center" />
 </div>
 
+
+### 🛠️ Sanni-Damilola's GitHub Activity Graph
+
+[![Sanni-Damilola's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanni-Damilola&bg_color=1a1b27&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true&layout=compact)](https://github.com/Sanni-Damilola/github-readme-activity-graph)
+
+
 ## Quote of the Day
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
