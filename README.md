@@ -17,11 +17,11 @@
 
 ## GitHub Streak
 <div align="center">
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=Sanni-Damilola&show_icons=true&count_private=true&include_all_commits=true&theme=radical" /> -->
-        <a href="https://github.com/Sanni-Damilola">
+    <a href="https://github.com/Sanni-Damilola">
         <img src="https://streak-stats.demolab.com?user=Sanni-Damilola&theme=radical" />
     </a>
 </div>
+
 
 <br />
 
