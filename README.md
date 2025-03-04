@@ -18,7 +18,7 @@
 ## GitHub Streak
 <div align="center">
     <a href="https://github.com/Sanni-Damilola">
-        <img src="https://streak-stats.demolab.com/?user=sanni-damilola&theme=radical" />
+        <img src="https://streak-stats.demolab.com/?user=Sanni-Damilola&theme=radical" />
     </a>
 </div>
 
