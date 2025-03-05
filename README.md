@@ -2848,11 +2848,13 @@
 
 
 
+
 <!-- GIF section start -->
 <div align="center">
-    <img src="https://media.giphy.com/media/JtBZmwe8C1b7KuabMk/giphy.gif" alt="Coding GIF" width="150" height="150" />
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width="150" height="150" />
 </div>
 <!-- GIF section end -->
+
 
 
 
