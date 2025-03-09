@@ -3185,11 +3185,13 @@
 
 
 
+
 <!-- GIF section start -->
 <div align="center">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="150" height="150" />
+    <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Coding GIF" width="150" height="150" />
 </div>
 <!-- GIF section end -->
+
 
 
 
