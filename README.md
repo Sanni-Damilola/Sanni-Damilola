@@ -3410,11 +3410,13 @@
 
 
 
+
 <!-- GIF section start -->
 <div align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="150" height="150" />
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="150" height="150" />
 </div>
 <!-- GIF section end -->
+
 
 
 
