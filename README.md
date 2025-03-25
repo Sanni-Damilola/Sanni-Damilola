@@ -4468,11 +4468,13 @@
 
 
 
+
 <!-- GIF section start -->
 <div align="center">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="150" height="150" />
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="150" height="150" />
 </div>
 <!-- GIF section end -->
+
 
 
 
