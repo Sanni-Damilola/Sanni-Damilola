@@ -17,12 +17,8 @@
 
 
 ## GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=Sanni-Damilola&theme=tokyonight" alt="GitHub Streak" />
 
-<div align="center">
-  <a href="https://github.com/Sanni-Damilola">
-    <img src="https://streak-stats.demolab.com/?user=Sanni-Damilola&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
-  </a>
-</div>
 
 <br />
 
